@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Test2</h1>
         <p>
         Curabitur laoreet nunc sit amet ipsum molestie, in volutpat nisi lobortis. 
         Cras rutrum sapien et quam efficitur tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et 
@@ -15,8 +14,7 @@
 </template>
 
 <script>
-export default {
- }
+
 
 </script>
 

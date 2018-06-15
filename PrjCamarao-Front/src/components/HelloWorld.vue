@@ -1,13 +1,20 @@
 <template>
   <div>
     <h1>Test1</h1>
+
+    <cc-intro></cc-intro>
   </div>
 
 </template>
 
 <script>
+import CcIntro from './intro.vue'
+
 export default {
- }
+  components: {
+    CcIntro
+  }
+}
 
 </script>
 
@@ -15,7 +22,7 @@ export default {
 <style scoped>
   h1{
     font-size: 50px;
-    font-weighr: bold;
+    font-weight: bold;
     color: #f00;
   }
 
